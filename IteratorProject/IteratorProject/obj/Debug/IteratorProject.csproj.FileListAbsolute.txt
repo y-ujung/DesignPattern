@@ -1,0 +1,14 @@
+F:\IteratorProject\IteratorProject\bin\Debug\IteratorProject.exe.config
+F:\IteratorProject\IteratorProject\bin\Debug\IteratorProject.exe
+F:\IteratorProject\IteratorProject\bin\Debug\IteratorProject.pdb
+F:\IteratorProject\IteratorProject\obj\Debug\IteratorProject.csprojResolveAssemblyReference.cache
+F:\IteratorProject\IteratorProject\obj\Debug\MainWindow.g.cs
+F:\IteratorProject\IteratorProject\obj\Debug\App.g.cs
+F:\IteratorProject\IteratorProject\obj\Debug\IteratorProject_MarkupCompile.cache
+F:\IteratorProject\IteratorProject\obj\Debug\IteratorProject_MarkupCompile.lref
+F:\IteratorProject\IteratorProject\obj\Debug\MainWindow.baml
+F:\IteratorProject\IteratorProject\obj\Debug\IteratorProject.g.resources
+F:\IteratorProject\IteratorProject\obj\Debug\IteratorProject.Properties.Resources.resources
+F:\IteratorProject\IteratorProject\obj\Debug\IteratorProject.csproj.GenerateResource.Cache
+F:\IteratorProject\IteratorProject\obj\Debug\IteratorProject.exe
+F:\IteratorProject\IteratorProject\obj\Debug\IteratorProject.pdb

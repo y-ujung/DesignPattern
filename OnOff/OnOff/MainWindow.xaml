@@ -1,0 +1,21 @@
+﻿<Window x:Class="CommandPattern.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CommandPattern"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="Lighton" Content="{Binding CommandNames[0]}" HorizontalAlignment="Left" Margin="35,50,0,0" VerticalAlignment="Top" Width="75" Command="{Binding LightCommand}" CommandParameter="on" />
+        <Button x:Name="Lightoff" Content="{Binding CommandNames[1]}" HorizontalAlignment="Left" Margin="135,50,0,0" VerticalAlignment="Top" Width="75" Command="{Binding LightCommand}" CommandParameter="off" />
+        <Button x:Name="TVon" Content="{Binding CommandNames[2]}" HorizontalAlignment="Left" Margin="35,80,0,0" VerticalAlignment="Top" Width="75" Command="{Binding TVCommand}" CommandParameter="on"/>
+        <Button x:Name="TVoff" Content="{Binding CommandNames[3]}" HorizontalAlignment="Left" Margin="135,80,0,0" VerticalAlignment="Top" Width="75" Command="{Binding TVCommand}" CommandParameter="off"/>
+        <Button x:Name="Computeron" Content="{Binding CommandNames[4]}" HorizontalAlignment="Left" Margin="35,110,0,0" VerticalAlignment="Top" Width="75" Command="{Binding ComCommand}" CommandParameter="on"/>
+        <Button x:Name="Computeroff" Content="{Binding CommandNames[5]}" HorizontalAlignment="Left" Margin="135,110,0,0" VerticalAlignment="Top" Width="75" Command="{Binding ComCommand}" CommandParameter="off"/>
+        <Button x:Name="watchMovie" Content="{Binding CommandNames[6]}" HorizontalAlignment="Left" Margin="35,140,0,0" VerticalAlignment="Top" Width="75" Command="{Binding MovieCommand}" CommandParameter="on"/>
+        <Button x:Name="endMovie" Content="{Binding CommandNames[7]}" HorizontalAlignment="Left" Margin="135,140,0,0" VerticalAlignment="Top" Width="75" Command="{Binding MovieCommand}" CommandParameter="off"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="255" Margin="350,30,0,0" VerticalAlignment="Top" Width="135" ItemsSource="{Binding CommandList}"/>
+        <Label x:Name="label" Content="{ Binding Recent}" HorizontalAlignment="Left" Margin="35,240,0,0" VerticalAlignment="Top" Width="175"/>
+    </Grid>
+</Window>

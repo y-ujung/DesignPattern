@@ -1,0 +1,17 @@
+D:\Observer\Observer\bin\Debug\Observer.exe.config
+D:\Observer\Observer\bin\Debug\Observer.exe
+D:\Observer\Observer\bin\Debug\Observer.pdb
+D:\Observer\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+D:\Observer\Observer\obj\Debug\MainWindow.g.cs
+D:\Observer\Observer\obj\Debug\App.g.cs
+D:\Observer\Observer\obj\Debug\Observer_MarkupCompile.cache
+D:\Observer\Observer\obj\Debug\Observer_MarkupCompile.lref
+D:\Observer\Observer\obj\Debug\MainWindow.baml
+D:\Observer\Observer\obj\Debug\Observer.g.resources
+D:\Observer\Observer\obj\Debug\Observer.Properties.Resources.resources
+D:\Observer\Observer\obj\Debug\Observer.csproj.GenerateResource.Cache
+D:\Observer\Observer\obj\Debug\Observer.exe
+D:\Observer\Observer\obj\Debug\Observer.pdb
+H:\Observer\Observer\bin\Debug\Observer.exe.config
+H:\Observer\Observer\obj\Debug\Observer.exe
+H:\Observer\Observer\obj\Debug\Observer.pdb

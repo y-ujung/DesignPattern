@@ -1,0 +1,14 @@
+﻿<Window x:Class="Coffee.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="400" Width="250">
+    <Grid>
+        <RadioButton x:Name="coffee1" Content="{Binding CoffeeNames[0]}" HorizontalAlignment="Left" Margin="47,50,0,0" VerticalAlignment="Top" Width="160" Command="{Binding CoffeeSelectCommand}" CommandParameter="0" />
+        <RadioButton x:Name="coffee2" Content="{Binding CoffeeNames[1]}" HorizontalAlignment="Left" Margin="47,75,0,0" VerticalAlignment="Top" Width="160" Command="{Binding CoffeeSelectCommand}" CommandParameter="1" />
+        <RadioButton x:Name="coffee3" Content="{Binding CoffeeNames[2]}" HorizontalAlignment="Left" Margin="47,100,0,0" VerticalAlignment="Top" Width="160" Command="{Binding CoffeeSelectCommand}" CommandParameter="2" />
+        <RadioButton x:Name="coffee4" Content="{Binding CoffeeNames[3]}" HorizontalAlignment="Left" Margin="47,125,0,0" VerticalAlignment="Top" Width="160" Command="{Binding CoffeeSelectCommand}" CommandParameter="3" />
+
+        <Label x:Name="Coffee" Content="{Binding CurCoffee}" HorizontalAlignment="Left" Margin="30,160,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.7,10.7"/>
+
+    </Grid>
+</Window>

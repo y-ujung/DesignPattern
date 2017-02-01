@@ -1,0 +1,26 @@
+﻿<Window x:Class="Observer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Observer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="207" Width="379">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="Humidity" Content="Humidity sensor" HorizontalAlignment="Left" Margin="25,45,0,0" VerticalAlignment="Top" Width="120" Click="Humidity_Click" Height="20"/>
+        <Button x:Name="Temperature" Content="Temperature sensor" HorizontalAlignment="Left" Margin="25,105,0,0" VerticalAlignment="Top" Width="120" Click="Temperature_Click" Height="20"/>
+        <Button x:Name="Pressure" Content="Pressure sensor" HorizontalAlignment="Left" Margin="25,75,0,0" VerticalAlignment="Top" Width="120" Click="Pressure_Click" Height="20"/>
+        <Button x:Name="LAB" Content="LAB" HorizontalAlignment="Left" Margin="270,35,0,0" VerticalAlignment="Top" Width="80" Height="20" Click="LAB_Click" />
+        <Button x:Name="School" Content="School" HorizontalAlignment="Left" Margin="270,60,0,0" VerticalAlignment="Top" Width="80" Height="20" Click="School_Click" />
+        <Button x:Name="BS" Content="BS" HorizontalAlignment="Left" Margin="270,85,0,0" VerticalAlignment="Top" Width="80" Height="20" Click="BS_Click" />
+        <Button x:Name="Office" Content="Office" HorizontalAlignment="Left" Margin="270,110,0,0" VerticalAlignment="Top" Width="80" Height="20" Click="Office_Click" />
+        <Button x:Name="Humudityplus" Content="+" HorizontalAlignment="Left" Margin="165,45,0,0" VerticalAlignment="Top" Width="20" Height="20" Click="Humudityplus_Click"/>
+        <Button x:Name="Pressureplus" Content="+" HorizontalAlignment="Left" Margin="165,75,0,0" VerticalAlignment="Top" Width="20" Height="20" Click="Pressureplus_Click"/>
+        <Button x:Name="Temperatureplus" Content="+" HorizontalAlignment="Left" Margin="165,105,0,0" VerticalAlignment="Top" Width="20" Height="20" Click="Temperatureplus_Click"/>
+
+    </Grid>
+</Window>

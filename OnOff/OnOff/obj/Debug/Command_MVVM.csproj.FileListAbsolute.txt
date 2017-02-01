@@ -1,0 +1,6 @@
+D:\Command_MVVM\Command_MVVM\bin\Debug\CommandPattern.exe.config
+D:\Command_MVVM\Command_MVVM\obj\Debug\CommandPattern.exe
+D:\Command_MVVM\Command_MVVM\obj\Debug\CommandPattern.pdb
+D:\MVVM\Command_MVVM\bin\Debug\CommandPattern.exe.config
+D:\MVVM\Command_MVVM\obj\Debug\CommandPattern.exe
+D:\MVVM\Command_MVVM\obj\Debug\CommandPattern.pdb

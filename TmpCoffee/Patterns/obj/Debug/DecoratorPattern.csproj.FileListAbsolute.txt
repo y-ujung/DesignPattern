@@ -1,0 +1,58 @@
+c:\users\user\documents\visual studio 2015\Projects\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+c:\users\user\documents\visual studio 2015\Projects\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\DecoratorPattern\DecoratorPattern\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\DecoratorPattern\DecoratorPattern\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+c:\users\user\documents\visual studio 2015\Projects\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+c:\users\user\documents\visual studio 2015\Projects\DecoratorPattern\DecoratorPattern\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.g.resources
+c:\users\user\documents\visual studio 2015\Projects\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+c:\users\user\documents\visual studio 2015\Projects\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
+D:\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+D:\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+D:\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
+D:\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+D:\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+D:\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache
+D:\DecoratorPattern\DecoratorPattern\obj\Debug\MainWindow.g.cs
+D:\DecoratorPattern\DecoratorPattern\obj\Debug\App.g.cs
+D:\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern_MarkupCompile.cache
+D:\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern_MarkupCompile.lref
+D:\DecoratorPattern\DecoratorPattern\obj\Debug\MainWindow.baml
+D:\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.g.resources
+D:\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.Properties.Resources.resources
+D:\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.GenerateResource.Cache
+D:\tmp\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+D:\tmp\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+D:\tmp\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
+H:\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+H:\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+H:\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
+H:\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+H:\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+H:\DecoratorPattern\DecoratorPattern\bin\Debug\mscorlib.dll
+H:\DecoratorPattern\DecoratorPattern\bin\Debug\ko\mscorlib.resources.dll
+H:\DecoratorPattern\DecoratorPattern\bin\Debug\normidna.nlp
+H:\DecoratorPattern\DecoratorPattern\bin\Debug\normnfc.nlp
+H:\DecoratorPattern\DecoratorPattern\bin\Debug\normnfd.nlp
+H:\DecoratorPattern\DecoratorPattern\bin\Debug\normnfkc.nlp
+H:\DecoratorPattern\DecoratorPattern\bin\Debug\normnfkd.nlp
+H:\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache
+H:\DecoratorPattern\DecoratorPattern\obj\Debug\MainWindow.g.cs
+H:\DecoratorPattern\DecoratorPattern\obj\Debug\App.g.cs
+H:\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern_MarkupCompile.cache
+H:\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern_MarkupCompile.lref
+H:\DecoratorPattern\DecoratorPattern\obj\Debug\MainWindow.baml
+H:\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.g.resources
+H:\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.Properties.Resources.resources
+H:\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.GenerateResource.Cache
+H:\VMMVPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+H:\VMMVPattern\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+H:\VMMVPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
+H:\VMMVPattern\VMMVPattern\bin\Debug\DecoratorPattern.exe.config
+H:\VMMVPattern\VMMVPattern\obj\Debug\DecoratorPattern.exe
+H:\VMMVPattern\VMMVPattern\obj\Debug\DecoratorPattern.pdb

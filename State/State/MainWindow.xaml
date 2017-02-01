@@ -1,0 +1,19 @@
+﻿<Window x:Class="State.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:State"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="334">
+    <Grid>
+        <Button x:Name="attack" Content="{Binding UnitAction[0]}" HorizontalAlignment="Left" Margin="40,80,0,0" VerticalAlignment="Top" Width="75" Command="{Binding AttackCommand}"/>
+        <Button x:Name="move" Content="{Binding UnitAction[1]}" HorizontalAlignment="Left" Margin="40,125,0,0" VerticalAlignment="Top" Width="75" Command="{Binding MoveCommand}"/>
+        <Label x:Name="label" Content="{Binding CurState}" HorizontalAlignment="Left" Margin="40,20,0,0" VerticalAlignment="Top" Width="105" Height="50"/>
+        <Button x:Name="button" Content="{Binding UnitState[0]}" HorizontalAlignment="Left" Margin="186,80,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.467,0.75" Command="{Binding StateChangeCommand}" CommandParameter="0"/>
+        <Button x:Name="button_Copy" Content="{Binding UnitState[1]}" HorizontalAlignment="Left" Margin="186,105,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.467,0.75" Command="{Binding StateChangeCommand}" CommandParameter="1"/>
+        <Button x:Name="button_Copy1" Content="{Binding UnitState[2]}" HorizontalAlignment="Left" Margin="186,130,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.467,0.75" Command="{Binding StateChangeCommand}" CommandParameter="2"/>
+        <Button x:Name="button_Copy2" Content="{Binding UnitState[3]}" HorizontalAlignment="Left" Margin="186,155,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.467,0.75" Command="{Binding StateChangeCommand}" CommandParameter="3"/>
+
+    </Grid>
+</Window>

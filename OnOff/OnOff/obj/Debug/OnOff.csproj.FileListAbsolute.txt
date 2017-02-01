@@ -1,0 +1,6 @@
+F:\OnOff\OnOff\bin\Debug\CommandPattern.exe.config
+F:\OnOff\OnOff\obj\Debug\CommandPattern.exe
+F:\OnOff\OnOff\obj\Debug\CommandPattern.pdb
+D:\OnOff\OnOff\bin\Debug\CommandPattern.exe.config
+D:\OnOff\OnOff\obj\Debug\CommandPattern.exe
+D:\OnOff\OnOff\obj\Debug\CommandPattern.pdb

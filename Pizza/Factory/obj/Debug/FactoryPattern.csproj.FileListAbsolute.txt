@@ -1,0 +1,38 @@
+c:\users\user\documents\visual studio 2015\Projects\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+c:\users\user\documents\visual studio 2015\Projects\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+c:\users\user\documents\visual studio 2015\Projects\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+c:\users\user\documents\visual studio 2015\Projects\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\FactoryPattern\FactoryPattern\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\FactoryPattern\FactoryPattern\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\FactoryPattern\FactoryPattern\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.g.resources
+c:\users\user\documents\visual studio 2015\Projects\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+c:\users\user\documents\visual studio 2015\Projects\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
+H:\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+H:\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+H:\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
+H:\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+H:\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+H:\FactoryPattern\FactoryPattern\bin\Debug\mscorlib.dll
+H:\FactoryPattern\FactoryPattern\bin\Debug\ko\mscorlib.resources.dll
+H:\FactoryPattern\FactoryPattern\bin\Debug\normidna.nlp
+H:\FactoryPattern\FactoryPattern\bin\Debug\normnfc.nlp
+H:\FactoryPattern\FactoryPattern\bin\Debug\normnfd.nlp
+H:\FactoryPattern\FactoryPattern\bin\Debug\normnfkc.nlp
+H:\FactoryPattern\FactoryPattern\bin\Debug\normnfkd.nlp
+H:\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
+H:\FactoryPattern\FactoryPattern\obj\Debug\MainWindow.g.cs
+H:\FactoryPattern\FactoryPattern\obj\Debug\App.g.cs
+H:\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern_MarkupCompile.cache
+H:\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern_MarkupCompile.lref
+H:\FactoryPattern\FactoryPattern\obj\Debug\MainWindow.baml
+H:\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.g.resources
+H:\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.Properties.Resources.resources
+H:\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.GenerateResource.Cache
+H:\Factory\Factory\bin\Debug\FactoryPattern.exe.config
+H:\Factory\Factory\obj\Debug\FactoryPattern.exe
+H:\Factory\Factory\obj\Debug\FactoryPattern.pdb
